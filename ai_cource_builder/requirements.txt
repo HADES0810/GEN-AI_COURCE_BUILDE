@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+ollama
+google-api-python-client
+python-dotenv
