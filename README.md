@@ -28,6 +28,5 @@ cd ai-course-builder
 3. pip install -r requirements.txt
 
 4. python -m streamlit run app.py
-
-I HAVE ALREADY PROVIDED .ENV FILE WITH MY API KEY TO RUN THE MODEL 
+ 
 THANKYOU 
